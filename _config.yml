@@ -8,8 +8,8 @@ subtitle: ''
 description: 'spring源码学习'
 keywords: 'spring学习'
 author: wenqi
-language: zh_CN
-timezone: 'GMT+8'
+language: zh
+timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
