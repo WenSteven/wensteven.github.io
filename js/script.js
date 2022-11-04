@@ -135,3 +135,19 @@
     $container.removeClass('mobile-nav-on');
   });
 })(jQuery);
+
+<!-- Start of Howxm client code snippet -->
+function _howxm(){_howxmQueue.push(arguments)}
+  window._howxmQueue=window._howxmQueue||[];
+  _howxm("setAppID","2e5f4602-4003-40d3-a04e-8d519a362244");
+  (function(){var e=document.createElement("script"),
+  t=document.getElementsByTagName("script")[0];
+  e.type="text/javascript";
+  e.defer=!0;e.src="https://static.howxm.com/sdk.js";
+  t.parentNode.insertBefore(e,t)})();
+
+  // 可使用如下方法传入用户ID，以关联用户与数据
+  // _howxm('identify', {
+//   uid:  '' ,   // 用户唯一ID
+// });
+<!-- End of Howxm client code snippet -->
